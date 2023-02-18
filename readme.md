@@ -1,4 +1,4 @@
-<!doctype html> 
+ 
 <html>
 <body>
 <h1>my favorite things</h1>
