@@ -2,9 +2,9 @@
 <html>
 <body>
 <h1>my favorite foods</h1>
-<ol>
+<ul>
 <il>pizza</il>
 <il>pasta</il>
-</ol> 
+</ul> 
 </body>
 </html>
